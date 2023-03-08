@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="36a5d59a-5057-4d1b-8749-dfb97a8ea512" name="Default Changelist" comment="" />
+    <list default="true" id="36a5d59a-5057-4d1b-8749-dfb97a8ea512" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.2048Smash3D/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2048Smash3D/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.2048Smash3D/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2048Smash3D/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.2048Smash3D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2048Smash3D/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Adaptive Performance/AdaptivePerformanceGeneralSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Adaptive Performance/AdaptivePerformanceGeneralSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/cube.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/cube.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/floor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/floor.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/walls.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/walls.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CubeCollision.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CubeCollision.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PushController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -20,14 +44,15 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CubeSpawner.cs" />
         <option value="$PROJECT_DIR$/Assets/FX.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Cube.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CubeCollision.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/RedZone.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PushController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FX.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CubeCollision.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="2MaoMtLyTnBV5fSnOIkdwsZNk49" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -68,6 +93,9 @@
       <option name="presentableId" value="Default" />
       <updated>1678015016579</updated>
       <workItem from="1678015056960" duration="15320000" />
+      <workItem from="1678138297914" duration="402000" />
+      <workItem from="1678183232451" duration="108000" />
+      <workItem from="1678266558580" duration="3688000" />
     </task>
     <servers />
   </component>
@@ -76,6 +104,18 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
